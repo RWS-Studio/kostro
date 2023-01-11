@@ -1,0 +1,13 @@
+[
+    {
+        "why": "creation",
+        "date": "dd/mm/yyyy hh:mm (AM/PM)",
+        "files_updated": [
+            "all"
+        ],
+        "updater": {
+            "name": "",
+            "contact": "phone number or professionnal email address"
+        }
+    }
+]

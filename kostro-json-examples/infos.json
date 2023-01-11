@@ -1,0 +1,19 @@
+{   
+    "name": "",
+    "address": {
+        "street": "",
+        "city": "",
+        "zip": "",
+        "country": ""
+    },
+    "languages": [
+        "",
+        ""
+    ],
+    "type": "->private or public",
+    "description": "",
+    "main_topics": [
+        "",
+        ""
+    ]
+}

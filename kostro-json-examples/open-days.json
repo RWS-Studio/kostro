@@ -1,0 +1,10 @@
+[
+    {
+        "type": "->presanciel/distance/hybrid",
+        "date": "",
+        "time": "hh:mm (AM/PM)",
+        "place": "",
+        "description": "",
+        "distance_link": "[link] or null"
+    }
+]

@@ -1,0 +1,1 @@
+// here put all the app strings + their translations
